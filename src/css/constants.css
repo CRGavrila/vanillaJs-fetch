@@ -1,0 +1,13 @@
+:root {
+  --main-bg-color: #f9f9f9;
+  --main-paper-color: #ffffff;
+  --main-text-color: #000000;
+  --main-link-color: #2455a3;
+  --drawer-bg:	#D3D3D3;
+
+  --text-xl: 3.2rem;
+  --text-lg: 2.4rem;
+  --text-normal: 1.6rem;
+  --text-sm: 1.4rem;
+  --text-xs: 1.2rem;
+}
