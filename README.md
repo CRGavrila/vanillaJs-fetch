@@ -13,4 +13,7 @@ Simple vanillajs fetcher for posts&comments from https://jsonplaceholder.typicod
 
 5. The project uses fontawesome 5
 
+# How to run?
+  yarn & yarn dev
+
 !! This will not work on IE do to javascript fetch, css variables
